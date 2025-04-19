@@ -1,3 +1,3 @@
 # ml-zoomcamp-hw
 
-Hello worls
+Hello world
